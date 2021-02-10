@@ -4,7 +4,7 @@ namespace ConsoleApp1
 {
     class Program
     {
-        //This is my first comment and it is edited
+        //This is my first comment
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
